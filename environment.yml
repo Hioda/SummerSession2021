@@ -1,7 +1,0 @@
-dependencies:
-  - python = 3
-  - pip:
-    - numpy
-    - sklearn
-    - matplotlib
-    - scikit-learn
